@@ -33,7 +33,7 @@ This repository contains comprehensive educational materials for an introductory
 
 ## 👨‍💻 Author
 
-**Seyed Hossein Javadi Zavieh**
+**Seyedhossein Javadizavieh**
 
 📧 seyedhossein.javadizavieh@its-ictpiemonte.it
 
