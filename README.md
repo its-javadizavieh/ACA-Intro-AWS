@@ -8,8 +8,7 @@ This repository contains comprehensive educational materials for an introductory
 
 ## 📂 Repository Structure
 
-### **MICRO/materiali_didattici/**
-- **labs/** - Hands-on laboratory exercises covering:
+### **Hands-on laboratory exercises covering:**
   - Prerequisites and tools (Git, CLI)
   - Cloud computing fundamentals
   - AWS account setup and budget management
@@ -20,16 +19,6 @@ This repository contains comprehensive educational materials for an introductory
   - IAM, EC2, and S3 integration
   - RDS (Relational Database Service) basics
   - CloudWatch metrics and alarms
-
-- **slides_deck/** - Complete presentation materials (Italian and English versions)
-  - Course introduction and structure
-  - Lesson calendar (January 2026)
-
-- **verifiche/** - Assessment materials and quizzes
-
-### **MATERIALS/**
-- PDF presentation files covering all course topics
-- Additional resources and policy examples
 
 ## 👨‍💻 Author
 
